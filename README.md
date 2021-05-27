@@ -1,2 +1,27 @@
 # twitter-bot
-A simple twitter bot that is build using node.js and raspberry pi 4
+
+### Installation :
+        
+        1) npm init
+        
+        
+        2) npm install twit --save
+        
+        
+       
+       
+      
+###### please replace the keys in config.js with your keys
+
+
+#### Run : 
+
+        node server.js
+        
+        
+        
+        
+#### Sample Output : 
+
+
+   ![Screenshot](twitter_bot.gif)
